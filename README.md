@@ -1,3 +1,27 @@
+# WeatherWidget ☀️🌧️❄️
+
+A simple and responsive weather application built using **React**.  
+The app allows users to search for any city or country and get real-time weather details using a weather API.
+
+## 🚀 Features
+
+- Search weather by **city** or **country**
+- Real-time API data fetching
+- Displays temperature, humidity, weather type, and more
+- Error handling for invalid cities
+- Clean and simple UI
+- Built using React functional components
+
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript**
+- **CSS**
+- **Weather API** 
+- **Axios / Fetch**
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
